@@ -1,0 +1,7 @@
+streamlit
+pypdf
+python-docx
+langchain-text-splitters
+openai
+qdrant-client
+python-dotenv
